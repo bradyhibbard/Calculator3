@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/brady.hibbard/Projects/calculator3/calculator3/calculator3.csproj": {}
+  },
+  "projects": {
+    "/Users/brady.hibbard/Projects/calculator3/calculator3/calculator3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brady.hibbard/Projects/calculator3/calculator3/calculator3.csproj",
+        "projectName": "calculator3",
+        "projectPath": "/Users/brady.hibbard/Projects/calculator3/calculator3/calculator3.csproj",
+        "packagesPath": "/Users/brady.hibbard/.nuget/packages/",
+        "outputPath": "/Users/brady.hibbard/Projects/calculator3/calculator3/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/brady.hibbard/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Constraint.Layout": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Xamarin.Android.Support.Constraint.Layout.Solver": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

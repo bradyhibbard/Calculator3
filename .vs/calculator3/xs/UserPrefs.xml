@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{CC3C3B38-9E3B-4E7E-B31B-7FB9BD0B4A47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="calculator3/Resources/layout/activity_main.xml">
+    <Files>
+      <File FileName="calculator3/MainActivity.cs" Line="30" Column="2" />
+      <File FileName="calculator3/Resources/values/strings.xml" Line="6" Column="13" />
+      <File FileName="calculator3/Resources/values/styles.xml" Line="8" Column="59" />
+      <File FileName="calculator3/Resources/layout/activity_main.xml" Line="89" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="calculator3" expanded="True">
+            <Node name="calculator3" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="activity_main.xml" selected="True" />
+                </Node>
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.calculator3 AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MultiItemStartupConfigurations />
+</Properties>
